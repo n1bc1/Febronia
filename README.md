@@ -1,3 +1,197 @@
 # Febronia
+Datenschutzerklärung
 
-hel
+Die Febronia nimmt Ihre Privatsphäre und den Schutz Ihrer personenbezogenen Daten ernst. Unter Beachtung der datenschutzrechtlichen Vorschriften verarbeiten wir Ihre personenbezogenen Daten nur, wenn uns eine gesetzliche Vorschrift dies erlaubt oder wenn Sie Ihre Einwilligung erklärt haben. In dieser Datenschutzerklärung werden die Erhebung, Verwendung, Weitergabe, Speicherung und der Schutz Ihrer personenbezogenen Daten beschrieben.
+
+
+Allgemeines
+Die Febronia, ist Verantwortliche im Sinne der Datenschutzgrundverordnung (DSGVO). Sofern in dieser Datenschutzerklärung von "wir" bzw. "unsere" die Rede ist, ist hiermit immer die Febronia als Verantwortliche gemeint.
+ 
+
+Wir sind verantwortlich für die Erhebung, Nutzung, Weitergabe, Speicherung und den Schutz Ihrer personenbezogenen Daten in Einklang mit unseren weltweiten Datenschutzgrundsätzen und dem anwendbaren Recht. Wie in dieser Datenschutzerklärung beschrieben, können wir Ihre personenbezogenen Daten an andere Mitglieder der Febronia-Unternehmensgruppe weitergeben, die sich zur Einhaltung unserer weltweiten Datenschutzgrundsätze (Binding Corporate Rules – BCRs) verpflichtet haben. Wir können Ihre personenbezogenen Daten in unseren Rechenzentren in der Europäischen Union, in den USA und weltweit verarbeiten und speichern.
+
+In dieser Datenschutzerklärung werden die Erhebung, Nutzung, Weitergabe, Speicherung und der Schutz Ihrer personenbezogenen Daten beschrieben. Sie gilt für diese Website und für alle Anwendungen, Services oder Tools (zusammen „Services“), in denen auf diese Datenschutzerklärung verwiesen wird, unabhängig davon, auf welchem Weg Sie die Services aufrufen oder verwenden, einschließlich des Zugriffs über Mobilgeräte.
+
+Änderungen dieser Datenschutzerklärung
+
+Wir können diese Datenschutzerklärung jederzeit ändern, indem wir die geänderte Version auf dieser Website veröffentlichen, einschließlich des Inkrafttretens der geänderten Version. Wir werden alle wesentlichen Änderungen dieser Datenschutzerklärung per E-Mail bekannt geben.
+
+
+
+Welche personenbezogenen Daten wir erheben
+Wir erheben, verwenden und speichern personenbezogene Daten von Ihnen und den Geräten (auch Mobilgeräten), die Sie verwenden, in folgenden Fällen: wenn Sie unsere Services nutzen, ein Konto einrichten, uns Informationen durch ein Webformular mitteilen, Informationen zu Ihrem Konto hinzufügen oder aktualisieren, sich an Community-Diskussionen oder Chats beteiligen oder auf andere Weise mit uns in Kontakt treten.
+Einige Ihrer personenbezogenen Daten (E-Mail-Adresse, ggf. Rechnungsadressdaten) sind erforderlich, um den Nutzungsvertrag abschließen und durchführen zu können. Die Angabe aller anderen personenbezogenen Daten ist freiwillig, kann aber notwendig sein, um unsere Services zu nutzen, wie z.B. die für die Aufgabe einer Anzeige erforderlichen Angebots- oder Kontaktinformationen.
+Wir können personenbezogene Daten auch aus anderen Quellen, wie nachfolgend aufgeführt, erheben.
+Zu den personenbezogenen Daten, die Sie bei der Nutzung unserer Services oder bei der Einrichtung eines Kontos bei uns angeben, gehören folgende Daten:
+
+Daten, die Sie persönlich identifizieren, wie Ihr Name, Ihre Anschriften, Ihre Telefonnummern, Ihre E-Mail-Adressen oder Ihre Nutzer-ID (sofern anwendbar), die Sie bei der Einrichtung Ihres Kontos bei uns angeben.
+Aufgeben von Anzeigen, Antworten auf Anzeigen, Daten, die Sie bei einer Transaktion angeben, sowie weitere transaktionsbezogene Inhalte, die Sie generieren.
+Sonstige Inhalte, die Sie generieren oder die sich auf Ihr Konto beziehen (z.B. Hinzufügen von Artikeln zu Benachrichtigungen).
+Zahlungsinformationen (z.B. Kreditkarten- oder Bankkontonummern) im Zusammenhang mit einem Feature-Kauf oder der Inanspruchnahme einer sonstigen von uns angebotenen entgeltlichen Leistung.
+In bestimmten Fällen geben Sie bei der Nutzung unserer Services Alter, Geschlecht, Interessen und persönliche Vorlieben an.
+Daten, die Sie durch ein Webformular mitteilen, durch Aktualisieren oder Hinzufügen von Daten zu Ihrem Konto, durch Beteiligung an Community-Diskussionen, Chats oder wenn wir aus anderen Gründen mit Ihnen kommunizieren.
+Aufzeichnungen von Telefongesprächen mit unserem Kundenservice, unter der Bedingung, dass Ihre Zustimmung zur Aufzeichnung gemäß geltendem Recht eingeholt worden ist.
+Daten, zu deren Erhebung und Verarbeitung wir nach geltendem Recht verpflichtet oder berechtigt sind und die wir für Ihre Authentifizierung, Identifizierung oder zur Überprüfung der von uns erhobenen Daten benötigen.
+ 
+Zahlungsdienstleistungen für Febronia und Febronia Freelancer auf Febronia werden von Stripe erbracht und unterliegen der Stripe Connected Account Vereinbarung (Stripe Connected Account Agreement), welche die Stripe Nutzungsbedingungen (Stripe Terms of Service) beinhaltet (zusammengefasst unter dem Sammelbegriff “Stripe Services Agreement”). Durch die Zustimmung zu den vorliegenden Nutzungsbedingungen oder das weitere agieren als Febronia und Febronia Freelancer auf Febronia, akzeptieren Sie die Bedingungen der Vereinbarung “Stripe Services Agreement”, welche von Stripe von Zeit zu Zeit angepasst werden darf. Als Voraussetzung, dass Febronia die Zahlungsdienstleistungen von Stripe in Anspruch nehmen kann, stimmen Sie zu, vollständige und komplette Informationen über sich und ihr Unternehmen für Febronia bereitzustellen, und sie autorisieren Febronia, diese Informationen und Transaktionsinformationen, die im Zusammenhang mit ihrer Nutzung der von Stripe offerierten Zahlungsdienstleistungen stehen, weiterzugeben.
+
+Zu den personenbezogenen Daten, die wir automatisch bei der Nutzung unserer Services oder bei der Einrichtung eines Kontos bei uns durch Sie erfassen, gehören folgende Daten:
+
+Wir sammeln Daten über Ihre Interaktion mit unseren Services, Ihre Werbepräferenzen und Ihre Kommunikation mit uns. Dies sind Informationen, die wir von Geräten (einschließlich mobiler Geräte) erhalten, die Sie beim Zugriff auf unsere Services verwenden. Diese Daten können Folgendes umfassen: Geräte-ID oder eindeutige Kennung, Gerätetyp, ID für Werbung und eindeutiges Geräte-Token.
+Standortinformationen und Geolokalisierungsdaten, einschließlich derer von Ihrem mobilen Gerät. Bitte beachten Sie, dass die meisten mobilen Geräte es Ihnen ermöglichen, die Nutzung von Ortungsdiensten durch eine Anwendung auf Ihrem mobilen Gerät im Einstellungsmenü des Geräts zu steuern oder zu deaktivieren.
+Computer- und Verbindungsinformationen wie Statistiken über Ihre Seitenaufrufe, Datenverkehr zu und von den Websites, Referral-URL, Werbeanzeigendaten, Ihre IP-Adresse, die von Ihnen besuchten Seiten innerhalb unserer Website und Services und Informationen aus den Webserver-Logdateien.
+https://firebase.google.com/support/privacy
+
+ 
+Zu den personenbezogenen Daten, die wir mithilfe von Cookies, Web-Beacons und ähnlichen Technologien erheben, gehören folgende Informationen:
+Wir setzen Cookies und nutzen Web-Beacons, eindeutige Kennungen sowie ähnliche Technologien, um Daten zu den Seiten, die Sie aufrufen, zu den Links, auf die Sie klicken, und zu anderen Aktionen, die Sie im Rahmen unserer Services sowie in unseren Werbe- oder E-Mail-Inhalten vornehmen, zu erheben.
+Weitere Informationen zu unserer Nutzung dieser Technologien und dazu, wie Sie diese einschränken können, finden Sie in unserer Erklärung zu Cookies, Web-Beacons und ähnlichen Technologien.
+Zu den personenbezogenen Daten aus anderen Quellen gehören folgende Daten:
+Wir ergänzen die personenbezogenen Daten, die wir unmittelbar bei Ihnen erheben, um von Dritten gesammelte Informationen und fügen sie Ihren Kontoinformationen hinzu. Zu den Informationen, die wir bei Dritten einholen, gehören beispielsweise demografische Daten, die öffentlich verfügbar sind, zusätzliche Kontaktdaten, Kreditprüfungsdaten und Informationen von Wirtschaftsauskunfteien, soweit dies nach geltendem Recht zulässig ist.
+Soziale Netzwerke: Wir ermöglichen es Ihnen, Informationen über Soziale Netzwerke zu teilen oder die Seiten Sozialer Netzwerke zu nutzen, um ein Konto zu erstellen oder Ihr Konto mit der jeweiligen Seite des Sozialen Netzwerks zu verbinden. Diese Sozialen Netzwerke können uns automatisch Zugang zu bestimmten personenbezogenen Daten einräumen, die dort über Sie gespeichert sind (z.B. von Ihnen angesehene Inhalte, Inhalte, die Ihnen gefallen, und Informationen über die Werbung, die Ihnen angezeigt wurde oder auf die Sie geklickt haben usw.). Auf welche personenbezogenen Daten wir zugreifen können, steuern Sie über die Datenschutzeinstellungen auf der Website des jeweiligen Sozialen Netzwerks und über die Berechtigungen, die Sie uns bei der Gewährung von Zugriff geben. Wenn Sie ein von einer Social-Media-Website verwaltetes Konto mit Ihrem Konto verknüpfen und uns den Zugriff auf diese Informationen gestatten, verarbeiten wir die von diesen Social-Media-Websites bereitgestellten Informationen in Übereinstimmung mit dieser Datenschutzerklärung.
+Wenn Sie uns personenbezogene Daten über eine andere Person geben, dürfen Sie dies nur mit deren Zustimmung tun. Sie sollten sie darüber informieren, wie wir ihre personenbezogenen Daten gemäß unserer Datenschutzerklärung verarbeiten.
+ 
+Personenbezogene Daten, die von sozialen Netzwerken erfasst werden (Social Media Links)
+Wir verwenden Links zu verschiedenen sozialen Netzwerken. Diese sind so konfiguriert, dass sie erst bei Klick auf den Button eine Verbindung mit dem jeweiligen sozialen Netzwerk herstellen. Details zu den Social Media Links finden Sie in unserer Erklärung zu Cookies, Web-Beacons und ähnliche Technologien.
+Wie und zu welchen Zwecken wir Ihre personenbezogenen Daten verwenden
+Wir verwenden Ihre personenbezogenen Daten für verschiedene Geschäftszwecke und entsprechend den unterschiedlichen rechtlichen Grundlagen der Verarbeitung. Nachfolgend finden Sie eine Zusammenfassung, wie und nach welchen Rechtsgrundlagen wir Ihre personenbezogenen Daten verwenden.
+
+Wir verwenden Ihre personenbezogenen Daten, um den Vertrag mit Ihnen zu erfüllen und durchzuführen und Ihnen unsere Dienste zur Verfügung zu stellen , um unseren rechtlichen Verpflichtung nachzukommen  oder um Ihre lebenswichtigen Interessen zu schützen. Dies umfasst die folgenden Fälle:
+
+um den Zugriff auf unsere Services und deren Nutzung (einschließlich der Abrechnung) zu gewährleisten, insbesondere zur Veröffentlichung von Anzeigen und sonstigen Inhalten des Nutzers, und um die Qualität und den Erfolg unserer Services zu messen und zu verbessern, unsere Services sicher und einsatzbereit zu halten und den Inhalt der Website und Services anhand der von Ihnen vorgenommenen Handlungen an das anzupassen, was Ihnen gefallen könnte;
+um Ihnen Zugriff auf Ihren Verlauf, interne Nachrichten (sofern anwendbar) und andere von uns angebotene Features gewähren zu können;
+um Sie bezüglich Ihres Kontos zu kontaktieren, Probleme mit Ihrem Konto zu beheben, Streitigkeiten zu lösen, Gebührenforderungen durchzusetzen oder Ihnen andere, notwendige Kundendienste anzubieten
+Wenn wir Sie zu den oben genannten Zwecken kontaktieren, können wir Sie per E-Mail, Telefon, SMS, Post und über mobile Push-Benachrichtigungen kontaktieren.
+um Ihnen unter Verwendung allgemeiner Standortinformationen standortbezogene Dienste (wie Werbung, Suchergebnisse und andere personalisierte Inhalte) anzubieten;
+um Betrug, Sicherheitsverletzungen oder andere potenziell verbotene oder rechtswidrige Aktivitäten zu erkennen, verhindern und zu untersuchen;
+um unsere Nutzungsbedingungen, diese Datenschutzerklärung oder anderer Richtlinien durchzusetzen.
+Wir verwenden Ihre personenbezogenen Daten, um unsere berechtigten Interessen zu verfolgen, sofern Ihre Interessen oder Grundrechte und Grundfreiheiten nicht überwiegen . Wir haben Kontrollmechanismen eingeführt, um unsere Interessen mit Ihren Rechten in Einklang zu bringen. Auf dieser Grundlage nutzen wir Ihre Daten wie folgt:
+
+zur Verbesserung unserer Services, z.B. durch die Überprüfung von Informationen im Zusammenhang mit blockierten oder abgestürzten Seiten, so dass wir Probleme identifizieren und beheben und Ihnen ein besseres Nutzererlebnis bieten können;
+zur Personalisierung, Messung und Verbesserung unserer Werbung basierend darauf, was Ihnen möglicherweise gefallen könnte;
+um Sie im Rahmen des geltenden Rechts per E-Mail oder Post zu kontaktieren, um Ihnen Gutscheine, Rabatte und Sonderaktionen anzubieten, Ihre Meinung durch Umfragen oder Fragebögen einzuholen und Sie über unsere Dienstleistungen zu informieren; dazu gehört auch, dass wir Sie über öffentliche Angelegenheiten oder andere aktuelle Ereignisse im Zusammenhang mit der Nutzung unserer Dienste informieren. Dies kann Einladungen zur Teilnahme an einer Petition, einer Unterschriftenliste oder Kampagnen anderer Art im Zusammenhang mit öffentlichen Angelegenheiten beinhalten;
+um Ihnen zielgerichtetes Marketing, Service-Updates und Werbeangebote anzubieten, die Ihnen möglicherweise gefallen;
+zur Überprüfung der Qualität und des Erfolgs unserer E-Mail-Marketing-Kampagnen (z.B. durch Analyse der Öffnungs- und Klickraten);
+zur Überwachung und Verbesserung der Informationssicherheit unserer Services.
+
+ 
+Mit Ihrer Einwilligung  können wir Ihre personenbezogenen Daten verwenden:
+um Ihnen Werbung per Telefon, E-Mail oder SMS zur Verfügung zu stellen;
+um Ihnen Werbung von anderen Mitgliedern der Febronia zur Verfügung zu stellen;
+um Ihnen Werbung von Dritten zur Verfügung zu stellen;
+um Werbung von Drittanbietern, die Sie möglicherweise auf Websites von Drittanbietern sehen, anzupassen;
+um Ihren genauen geografischen Standort zu ermitteln, damit wir Ihnen standortbasierte Services bereitstellen können.
+ 
+Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen und Ihr Widerspruchsrecht auszuüben.
+Wir können Technologien verwenden, die als automatisierte Entscheidungsfindung oder Profilerstellung gelten. Wir werden keine automatisierten Entscheidungen über Sie treffen, die Sie erheblich beeinträchtigen würden, es sei denn, eine solche Entscheidung ist im Rahmen eines mit Ihnen geschlossenen Vertrags erforderlich, wir haben Ihre Einwilligung eingeholt oder wir sind gesetzlich dazu verpflichtet, diese Technologie zu verwenden.
+
+Ihre Wahlmöglichkeiten, wie wir Ihre personenbezogenen Daten nutzen dürfen
+Sie können wählen, wie wir Ihre personenbezogenen Daten nutzen dürfen, um Ihnen Marketingmitteilungen zu übermitteln und Ihnen personalisierte Werbeanzeigen einzublenden.
+Einstellungen für Marketingmitteilungen
+Wenn Sie keine Marketingmitteilungen von uns erhalten möchten, können Sie diese über den Link in der von Ihnen erhaltenen E-Mail oder über die Einstellungsoptionen für Mitteilungen in ihrem Konto abbestellen oder uns wie unter dem angegeben Kontakt kontaktieren. Wir werden Ihre personenbezogenen Daten nicht ohne Ihre Zustimmung an Dritte zu Marketingzwecken verkaufen, überlassen oder auf andere Weise weitergeben.
+Personalisierte Werbeanzeigen
+Wenn Sie keine personalisierte Werbung erhalten möchten, können Sie dem widersprechen oder Ihre Einwilligung widerrufen, indem Sie den Anweisungen in der entsprechenden Werbung oder in unserer Erklärung zu Cookies, Web-Beacons und ähnlichen Technologien folgen. Dies hat zur Folge, dass Sie keine personalisierte Werbung mehr erhalten, aber dennoch können personenbezogene Daten erfasst werden, wie in dieser Datenschutzerklärung beschrieben. Ohne Ihre Einwilligung gestatten wir Dritten nicht, Ihre personenbezogenen Daten auf unseren Websites zu eigenen Werbezwecken zu verfolgen oder zu sammeln.
+Angemeldet bleiben
+Nutzen Sie unsere App, bleiben Sie nach Ihrer Anmeldung stets eingeloggt. Nutzen Sie unsere Website (auch über ein mobiles Gerät), bleiben Sie eingeloggt, wenn Sie innerhalb der letzten sieben (7) Tage aktiv waren. Ansonsten werden Sie ausgeloggt. Wenn Sie einen öffentlichen oder freigegebenen Computer verwenden, empfehlen wir Ihnen, sich nach der Nutzung der Services auszuloggen und/oder Ihre Cookies zu löschen. So schützen Sie Ihr Konto und Ihre personenbezogenen Daten. Sie oder ein anderer Benutzer des Computers/Browsers, auf dem Sie sich angemeldet haben, können die meisten Bereiche Ihres Kontos einsehen und darauf zugreifen sowie während dieser Anmeldephase alle ermöglichten Kontoaktivitäten ohne Ihre Genehmigung vornehmen. Zu den spezifischen Aktionen und Kontoaktivitäten, die Sie oder ein anderer Benutzer dieses Computers/Browsers ausführen können, gehören:
+Eine Anzeige einstellen oder auf eine Anzeige antworten
+Ihre Anzeigen verwalten
+Ihre Aktivitäten einsehen
+Ihre Profilseite einsehen
+Ihre Suchen und Ihre Merkliste einsehen oder bearbeiten
+Ihre Unternehmensseite einsehen oder bearbeiten
+Nachrichten von Mitglied zu Mitglied versenden
+Weitere Aktivitäten ausführen, wie z. B. Nachrichten oder Anzeigen melden sowie das Einreichen von Beschwerden.
+Wenn Sie versuchen, Ihr Passwort, die Nutzer-ID, andere Kontoinformationen oder andere Kontoaktivitäten als die oben aufgeführten zu ändern, müssen Sie möglicherweise Ihr Passwort eingeben.
+Sie können Ihre angemeldete Sitzung normalerweise beenden, indem Sie sich entweder abmelden und/oder Ihre Cookies löschen. Wenn Sie bestimmte Browser-Datenschutzeinstellungen aktiviert haben, kann das Schließen Ihres Browsers auch Ihre angemeldete Sitzung beenden.
+
+
+
+
+
+
+Ihre Rechte und wie Sie auf Ihre personenbezogenen Daten zugreifen, sie kontrollieren und berichtigen können
+Sie können Ihre personenbezogenen Daten aufrufen, überprüfen und ändern, indem Sie sich in Ihrem Konto einloggen. Bitte aktualisieren Sie Ihre personenbezogenen Daten umgehend, wenn diese sich ändern oder falsch sind. Bitte denken Sie daran, dass Sie einen öffentlichen Beitrag möglicherweise nicht mehr ändern oder entfernen können, sobald Sie ihn veröffentlicht haben.
+Wir respektieren Ihre gesetzlichen Rechte:
+Sie haben das Recht zu erfahren, welche personenbezogenen Daten wir über Sie speichern .
+Wir stellen Ihnen auf Anfrage eine Kopie Ihrer personenbezogenen Daten in strukturierter, gebräuchlicher und maschinenlesbarer Form zur Verfügung  .
+Wenn Ihre personenbezogenen Daten unzutreffend oder unvollständig sind, haben Sie das Recht, uns aufzufordern, sie zu berichtigen bzw. zu vervollständigen .
+Sie haben das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit zu widersprechen.
+Sie können uns auch auffordern, Ihre personenbezogenen Daten zu löschen oder einzuschränken; dieses Recht wird durch geltendes Recht bestimmt und kann sich auf Ihren Zugang zu einigen unserer Dienste auswirken  .
+ 
+Um Auskunft zu verlangen und herauszufinden, ob in Übereinstimmung mit geltendem Recht Gebühren hierfür anfallen können, kontaktieren Sie uns bitte über die unten angegebenen Kontaktmöglichkeiten. Wenn Sie ein Recht auf Auskunft oder Änderung oder Löschung Ihrer personenbezogenen Daten haben, können wir unter bestimmten Umständen in Übereinstimmung mit geltendem nationalem Recht eine solche Auskunft verweigern bzw. eine Korrektur oder Löschung Ihrer personenbezogenen Daten ablehnen.
+Wenn Sie uns auffordern, die Verarbeitung Ihrer personenbezogenen Daten ganz oder teilweise einzustellen oder Ihre Einwilligung zur Nutzung oder Weitergabe Ihrer personenbezogenen Daten für die in dieser Datenschutzerklärung genannten Zwecke widerrufen, können wir Ihnen möglicherweise nicht alle Services und Kundensupportleistungen anbieten, die unseren Nutzern im Rahmen dieser Datenschutzerklärung und unserer Nutzungsbedingungen angeboten werden.
+Auf Ihren Wunsch hin werden wir Ihr Konto schließen und Ihre personenbezogenen Daten so schnell wie möglich, basierend auf Ihrer Kontoaktivität und in Übereinstimmung mit dem anwendbaren Recht, löschen.
+ 
+In welchen Fällen wir Ihre personenbezogenen Daten weitergeben
+Wir können Ihre personenbezogenen Daten an andere Mitglieder der Febronia oder an Dritte für die folgenden Zwecke weitergeben:
+ 
+An Mitglieder der Febronia, die diese zu folgenden Zwecken verwenden können:
+Zur Bereitstellung gemeinsamer Inhalte und Services (wie z. B. Neuanmeldung, Transaktionen und Kundenservice);
+Zur Erkennung und Verhinderung von möglicherweise betrügerischen und rechtswidrigen Handlungen, Verstößen gegen unsere Nutzungsbedingungen und Verletzungen der Datensicherheit;
+Zur Bereitstellung personalisierter Werbeanzeigen für Sie;
+Zur Verbesserung der eigenen Produkte, Websites, Anwendungen, Services, Tools und für Marketingmitteilungen;
+Mitglieder unserer Febronia werden Ihre personenbezogenen Daten nur dann für die Zusendung von Marketingmitteilungen verwenden, wenn Sie eingewilligt haben, solche Mitteilungen zu erhalten oder dies anderweitig gesetzlich zulässig ist.
+ 
+An dritte Serviceanbieter und Finanzinstitutspartner:
+um uns bei der Bereitstellung unserer Services, bei der Zahlungsabwicklung und bei der Bereitstellung personalisierter Werbung zu unterstützen;
+um uns bei der Vorbeugung, Erkennung, Eindämmung und Untersuchung potenziell rechtswidriger Handlungen, bei Verstößen gegen unsere Nutzungsbedingungen, bei Betrug und/oder Sicherheitsverletzungen, im Zusammenhang mit Rechnungsinkasso und anderen Geschäftsvorgängen unterstützen.
+ 
+An Drittanbieter von Websites, Anwendungen und Tools sowie andere Mitglieder derFebronia insbesondere mobile.de:
+mit denen wir gemäß unserer Nutzungsbedingungen zusammenarbeiten, damit diese Ihre Anzeigen und deren Inhalt auf ihrer Website oder in ihren Anwendungen und Tools veröffentlichen oder bewerben. Sofern wir Drittanbietern mit dem Inhalt IhrerAnzeigen auch personenbezogene Daten übermitteln, geschieht dies ausschließlich auf der Grundlage eines Vertrags, der die Nutzung der personenbezogenen Daten durch den Drittanbieter beschränkt und diesen zur Durchführung von Sicherheitsmaßnahmen in Bezug auf diese Daten verpflichtet. Insbesondere ist es den Drittanbietern nicht gestattet, die in Ihren Anzeigen enthaltenen personenbezogenen Daten zu verkaufen, zu vermieten oder auf irgendeine andere Art und Weise an Dritte weiterzugeben. Bei Übermittlung an Mitglieder unserer Unternehmensgruppe ergeben sich solche Einschränkungen aus unseren gemeinsamen verbindlichen Unternehmensregeln (Binding Corporate Rules - BCRs, siehe unten).
+An Strafverfolgungsbehörden, an Dritte im Rahmen von Gerichtsverfahren und an gesetzlich autorisierte Dritte:
+Zur Einhaltung unserer gesetzlichen Verpflichtungen, zur Durchsetzung unserer Nutzungsbedingungen, zur Verteidigung von Ansprüchen, dass ein Angebot oder sonstige Inhalte Rechte Dritter verletzen, oder um die Rechte, das Eigentum oder die Sicherheit von Dritten zu schützen;
+An Strafverfolgungsbehörden, staatliche Stellen oder autorisierte Dritte aufgrund eines Auskunftsersuchens in Zusammenhang mit einem Ermittlungsverfahren oder dem Verdacht auf eine Straftat, eine rechtswidrige Handlung oder eine andere Handlung, aus der sich für uns, Sie oder einen anderen Nutzer eine rechtliche Haftung ergeben kann. Wir werden nur Informationen offenlegen, die wir für die Untersuchung oder Anfrage als relevant erachten;
+An Rechteinhaber, die eine Vertraulichkeitsvereinbarung mit uns abgeschlossen haben, im Zusammenhang mit einer Untersuchung wegen Betrugs, Verletzung geistigen Eigentums, Produktpiraterie oder einer anderen rechtswidrigen Handlung, sofern wir dies nach eigenem Ermessen für notwendig oder sinnvoll erachten;
+An Kreditauskunfteien, sofern dies nach geltendem Recht zulässig ist;
+An Dritte, die ein Gerichtsverfahren einleiten oder an einem Gerichtsverfahren beteiligt sind, sofern sie uns eine rechtliche Anordnung, einen Gerichtsbeschluss oder eine gleichwertige rechtliche Verfügung vorlegen, oder wenn wir in gutem Glauben davon ausgehen dürfen, dass die Weitergabe der Daten notwendig ist, um unmittelbar drohende Gefahr für Leib und Leben oder finanziellen Verlust abzuwenden oder einen Verdacht auf eine rechtswidrige Handlung zu melden.
+Eigentümerwechsel
+Im Falle einer Fusion mit einem anderen Unternehmen oder einer Übernahme durch ein anderes Unternehmen können wir gemäß unseren weltweiten Datenschutzgrundsätzen Informationen an dieses Unternehmen weitergeben. Wenn ein solches Ereignis eintreten sollte, werden wir von dem neuen zusammengeschlossenen Unternehmen die Einhaltung dieser Datenschutzerklärung in Bezug auf Ihre personenbezogenen Daten verlangen. Sollten Ihre personenbezogenen Daten zu irgendwelchen nicht in dieser Datenschutzerklärung genannten Zwecken erhoben, genutzt, weitergegeben oder gespeichert werden, werden Sie im Voraus über die Verarbeitung Ihrer personenbezogenen Daten zu diesen neuen Zwecken informiert.
+Wie lange wir Ihre personenbezogenen Daten speichern
+Wir speichern Ihre personenbezogenen Daten so lange, wie es für die Bereitstellung der von Ihnen angeforderten Services oder für andere notwendige Zwecke erforderlich ist, wie die Erfüllung unserer rechtlichen Verpflichtungen, die Beilegung von Streitigkeiten und die Durchsetzung unserer Nutzungsbedingungen.
+Unsere spezifischen Aufbewahrungsfristen für personenbezogene Daten sind in unseren Aufbewahrungsrichtlinien dokumentiert. Wie lange wir personenbezogene Daten aufbewahren, kann je nach Kontext der von uns angebotenen Services und in Abhängigkeit von unseren rechtlichen Verpflichtungen erheblich variieren. Die folgenden Faktoren beeinflussen typischerweise die Aufbewahrungsdauer:
+ 
+Wie lange werden die persönlichen Daten für die Erbringung unserer Dienstleistungen benötigt?
+ 
+Dazu gehören unter anderem die Aufrechterhaltung und Verbesserung der Leistungsfähigkeit unserer Produkte, die Sicherheit unserer Systeme und die Führung angemessener Geschäfts- und Finanzunterlagen. Dies ist die allgemeine Regel, die die Grundlage für die meisten unserer Aufbewahrungsfristen bildet.
+ 
+Sind die personenbezogenen Daten sensibel?
+ 
+Wenn ja, ist eine verkürzte Aufbewahrungszeit in der Regel angemessen.
+ 
+Haben Sie eine Einwilligung für eine längere Aufbewahrungsdauer erteilt?
+ 
+In diesem Fall speichern wir die Daten entsprechend Ihrer Einwilligung.
+ 
+Unterliegen wir einer gesetzlichen, vertraglichen oder ähnlichen Verpflichtung zur Aufbewahrung Ihrer personenbezogenen Daten?
+ 
+Beispiele hierfür sind zwingende Gesetze zur Vorratsdatenspeicherung in der jeweiligen Gerichtsbarkeit, behördliche Anordnungen zur Aufbewahrung von Daten, die für eine Untersuchung relevant sind, oder personenbezogene Daten, die für die Zwecke von Rechtsstreitigkeiten aufbewahrt werden.
+Nachdem wir Ihre personenbezogenen Daten nicht mehr benötigen, werden wir diese gemäß unseren Richtlinien zur Aufbewahrung und Löschung von Daten datenschutzgerecht entsorgen.
+Cookies und ähnliche Technologien
+Wenn Sie unsere Websites besuchen oder unsere Services, Anwendungen, Tools oder Nachrichten nutzen, können wir oder unsere autorisierten Diensteanbieter Cookies setzen und andere ähnliche Technologien verwenden. Dies erfolgt, um Ihnen ein besseres, schnelleres und sichereres Erlebnis zu bieten sowie für Werbe- und Marketingzwecke. Weitere Informationen finden Sie in unserer Erklärung zu Cookies, Web-Beacons und ähnlichen Technologien.
+Wie wir Ihre personenbezogenen Daten schützen
+Wir schützen Ihre personenbezogenen Daten durch technische und organisatorische Sicherheitsmaßnahmen, um Risiken im Zusammenhang mit deren Verlust, Missbrauch, unberechtigtem Zugriff, unberechtigter Weitergabe und Änderung zu minimieren. Hierzu setzen wir beispielsweise Firewalls und Datenverschlüsselung, physische Zugangsbeschränkungen für unsere Rechenzentren und Berechtigungskontrollen für den Datenzugriff ein.
+Weltweite Datenschutzgrundsätze
+Febronia hat weltweite Datenschutzgrundsätze, die als verbindliche, unternehmensweit geltende Datenschutzvorschriften (Binding Corporate Rules, BCRs) bezeichnet werden. Mit diesen verpflichten wir uns, Ihre personenbezogenen Daten zu schützen und unsere Datenschutzverpflichtungen und globalen Sicherheitsstandards einzuhalten, unabhängig davon, wo in unserer Unternehmensgruppe Ihre personenbezogenen Daten erhoben, verwendet oder gespeichert werden. Unsere BCRs wurden von mehreren Datenschutzbehörden in der Europäischen Union anerkannt. Das bedeutet, dass wir Ihre personenbezogenen Daten überall in der Febronia in Einklang mit den Datenschutzstandards der Europäischen Union behandeln.  
+Weitere wichtige Informationen
+Was passiert, wenn Sie Ihre personenbezogenen Daten auf unseren Websites oder Anwendungen weitergeben?
+Andere Nutzer haben Zugriff auf die Informationen, die Sie bei Febronia freigeben oder an andere Nutzer weitergeben. Wenn Sie unsere Dienste nutzen, wird Ihr Benutzername möglicherweise angezeigt und der Öffentlichkeit zugänglich gemacht und mit Ihren öffentlichen Febronia-Aktivitäten verknüpft.
+ 
+Ihre Verantwortung für personenbezogene Daten, die Sie über Febronia erhalten
+Wenn Sie mit einem anderen Nutzer korrespondieren und personenbezogene Daten des anderen Nutzers (wie Name, E-Mail-Adresse, Kontaktdetails, ggf. Versand- und Rechnungsadresse) erhalten, sind Sie unabhängig von uns der Verantwortliche für solche Daten und müssen die gesetzlichen Vorgaben zum Datenschutz beachten. Sie dürfen die personenbezogenen Daten, auf die Sie Zugriff haben, nur für Zwecke der Abwicklung des Kontakts über Febronia und der sich hieraus ggf. ergebenen Transaktion und für Zwecke verwenden, in die der Nutzer, auf den sich die Daten beziehen, ausdrücklich eingewilligt hat. Die Verwendung personenbezogener Daten anderer Nutzer, auf die Sie für andere Zwecke Zugriff haben, stellt einen Verstoß gegen unsere Nutzungsbedingungen dar.
+ 
+Unerwünschte und bedrohliche E-Mails
+Wir dulden keinen Missbrauch unserer Services. Sie dürfen unsere Nachrichten-Tools nicht für den Versand von Spam oder anderen Inhalten verwenden, die gegen unsere Nutzungsbedingungen verstoßen. Es ist Ihnen auch nicht erlaubt, andere Nutzer zu Ihren E-Mail-Verteilerlisten hinzuzufügen, Sie zu gewerblichen Zwecken anzurufen oder an diese SMS-Nachrichten zu gewerblichen Zwecke zu senden, selbst wenn dieser Nutzer bei Ihnen etwas gekauft hat, sofern der Nutzer nicht seine ausdrückliche Einwilligung dazu gegeben hat. Das Senden unerwünschter oder bedrohlicher E-Mail- oder SMS-Nachrichten stellt einen Verstoß gegen unsere Nutzungsbedingungen dar. Bitte melden Sie derartige Spam- oder betrügerische E-Mails dem Kundenservice.
+ 
+Nachrichten-Tools
+Wir scannen über unsere Nachrichten-Tools versendete Nachrichten automatisch und filtern sie möglicherweise manuell, um sie auf Spam, Viren, Phishing-Angriffe sowie andere böswillige Aktivitäten und rechtswidrige oder verbotene Inhalte zu prüfen und die Nachricht insgesamt oder den verbotenen Inhalt ggf. zu blockieren.
+Privatsphäre von Kindern
+Unsere Webseiten sind allgemein zugängliche Webseiten und nicht für Kinder bestimmt. Wir erheben wissentlich keine personenbezogenen Daten von Nutzern, die gemäß ihren jeweiligen nationalen Gesetzen als Kinder gelten.
+ 
+Datenschutzregeln Dritter
+Diese Datenschutzerklärung betrifft nur die Nutzung und Weitergabe personenbezogener Daten, die wir im Zusammenhang mit der Bereitstellung unserer Services von Ihnen erfassen. Wenn Sie Ihre Daten an Dritte weitergeben oder wenn Sie auf die Website eines Dritten weitergeleitet werden, gilt die Datenschutzerklärung des jeweiligen Dritten.
+Wir können die Vertraulichkeit oder Sicherheit Ihrer Daten nicht garantieren, nachdem Sie diese an einen Dritten weitergegeben haben. Daher empfehlen wir Ihnen, die Datenschutzerklärungen sowie die Datensicherheitsgrundsätze Ihrer Handelspartner genau zu überprüfen, bevor Sie eine Transaktion durchführen und Ihre Daten weitergeben, selbst wenn dieser Dritte Käufer oder Verkäufer auf unseren Websites ist.
+ 
+Kontaktieren Sie uns
+Wenn Sie Fragen oder Beschwerden zu dieser Datenschutzerklärung, unseren weltweiten Datenschutzgrundsätzen oder unserem Umgang mit Daten haben, kontaktieren Sie uns bitte per E-Mail untern1bc1.n1bc1@gmail.com . 
+
+
